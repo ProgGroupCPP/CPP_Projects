@@ -3,8 +3,7 @@
 using namespace std;
 
 int main() {
-	cout << "BAREV" << endl;
-	cout << NULL << endl;
+	cout << "BAREV";
 
 	system("pause");
 	return 0;
